@@ -22,8 +22,6 @@
 
 
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyKerges&layout=compact&langs_count=6&theme=tokyonight"/>
-
 ![1](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![2](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![k](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
