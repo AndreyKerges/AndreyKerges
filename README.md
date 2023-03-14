@@ -17,10 +17,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyKerges&theme=transparent&show_icons=true)
-
-
-
 ## 🔌-Habilidades e Linguagens:
 
 
