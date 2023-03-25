@@ -6,7 +6,7 @@
 - 📡 Informática (Nova Matriz) 1/3
 - 📞 (13) 99680-4063
 - 📫 AndreyKergesProfissional@gmail.com
-- ⚡ Aprendendo C# e Js
+- ⚡ Aprendendo C#, JS e PHP
 
 
 
