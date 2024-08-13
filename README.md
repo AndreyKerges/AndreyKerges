@@ -1,9 +1,10 @@
 ### Olá, eu sou o Andrey 👋
 
-- 🔭 Atualmente estudo em período integral (13H - 23H)
+- 🔭 Atualmente estudo em período vespertino
 - 🌱 Programador Full-Stack
-- 📟 Desenvolvimento de Sistemas 3/3
-- 📡 Informática (Nova Matriz) 1/3
+- 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 📟 Técnico em Desenvolvimento de Sistemas
+- 📡 Técnico em Informática (Nova Matriz)
 - 📞 (13) 99680-4063
 - 📫 AndreyKergesProfissional@gmail.com
 - ⚡ Aprendendo C#, JS e PHP
