@@ -10,7 +10,6 @@
 - ⚡ Aprendendo C#, JS e PHP
 
 
-https://learn.microsoft.com/api/credentials/share/pt-br/AndreyKerges-5096/B42D841E1B5304EB?sharingId=9CAD69E313D88604
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Andrey-Kerges-67a5b0266/)
